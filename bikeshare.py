@@ -210,6 +210,8 @@ def user_stats(df):
     print('-'*40)
 
 def display_data(df):
+    """ Displays five lines of raw data at a time"""
+    
     row_length = df.shape[0]
     for i in range(0, row_length, 5):
         yes = input("\nWould you like to examine five lines of the raw data? Type 'yes' or 'no': \n")
