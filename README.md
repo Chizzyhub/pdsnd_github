@@ -1,5 +1,5 @@
 ### Date created
-This projectwas created on the 5th of June 2020.
+This project was created on the 5th of June 2020.
 
 ### Project Title
 US bikeshare project
@@ -11,5 +11,8 @@ Describe what your project is about and what it does
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+below are the blogs I consulted while carrying out my project
+https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
+https://pandas.pydata.org/docs/user_guide/index.html#user-guide
+Udacity knowledge
+Udacity chat
