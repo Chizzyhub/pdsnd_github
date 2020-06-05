@@ -188,7 +188,7 @@ def user_stats(df):
         print('The total gender is ',gender)
         print()
     else:
-        print('Sorry, there\'s no value for gender in Washington')
+        print('Oops! Sorry, there\'s no value for gender in Washington')
 
     # TO DO: Display earliest, most recent, and most common year of birth
     if 'Birth Year' in df.columns:
@@ -204,7 +204,7 @@ def user_stats(df):
         print('The most common year of birth is ',common_birth)
         print()
     else:
-        print('Sorry, there\'s no value for Birth Year in Washington')
+        print('Oops! Sorry, there\'s no value for Birth Year in Washington')
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
